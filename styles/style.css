@@ -8,10 +8,13 @@ header, footer, main, nav {
     max-width: 760px;
     margin: 1rem auto;
     padding: 1rem;
-    background-color: rgba(255, 0, 0, 0.61);
+    background-color: rgba(241, 113, 128, 0.118);
     border-radius: 15px;
 }
-
+/* Header designs */
+a{
+    text-decoration: none;
+}
 
 header {
     text-align: center;
@@ -22,4 +25,31 @@ li{
 .ul-nav{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+/* Search button design */
+#search{
+    width: 100%;
+    display: flex;
+}
+
+#search input{
+    padding: 10px 25px;
+    height: 70px;
+    border-radius: 20px;
+    flex: 1;
+    margin-right: 16px;
+    font-size: 18px;
+}
+
+#search button {
+    border-radius: 30px;
+    margin: 5px;
+    height: 50px;
+    width: 50px;
+    cursor: pointer;
+}
+
+#search button img{
+    width: 20px;
 }
