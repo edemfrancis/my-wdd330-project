@@ -1,6 +1,31 @@
 @media screen and (min-width: 35rem) {
-    .header{
-        display: grid;
-        grid-template-columns: .5fr 2fr 4fr;
-    }
+  .header {
+    display: grid;
+    grid-template-columns: 0.5fr 2fr 4fr;
+  }
+  h1{
+    font-size: 3vw;
+  }
+
+  li:hover{
+    background-color: rgba(226, 175, 175, 0.496);
+    border-radius: 3px;
+    color: black;
+    opacity: 1;
+    transform: scale(1.05);
+  }
+  .search input {
+    font-size: 2vw;
+  }
+  
+  .search button {
+    width: 50px;
+    border-radius: 30px;
+    margin: 5px;
+    height: 60px;
+    cursor: pointer;
+  }
+  .search button img {
+    width: 20px;
+  }
 }

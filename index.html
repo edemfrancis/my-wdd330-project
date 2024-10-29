@@ -1,43 +1,66 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="Author" content="Edem Francis">
+    <meta name="description" content="Book Recommender Project">
     <title>Book Recommender</title>
-    <link rel="stylesheet" href="styles/style.css">
-    <link rel="stylesheet" href="styles/larger.css">
-</head>
-<body>
-    <header class="header">
-        <img src="images/book_dictionary_icon-icons.com_66121.png" alt="Book Logo">
-        <h1>Book Recommender</h1>
-        <nav>
-            <ul class="ul-nav">
-                <li><a href="#">Home Page</a></li>
-                <li><a href="#">Books</a></li>
-                <li><a href="#">Recommender</a></li>
-                <li><a href="#">About us</a></li>
-            </ul>
-        </nav>
+    <link rel="stylesheet" href="styles/style.css"/>
+    <link rel="stylesheet" href="styles/larger.css"/>
+    
+  </head>
+  <body>
+    <header class="header hero-image">
+      <img
+        src="images/book_dictionary_icon-icons.com_66121.png"
+        alt="Book Logo"
+      />
+      <h1>Book Recommender</h1>
+      <nav>
+        <ul class="ul-nav">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="src/index.html">Reader</a></li>
+          <li><a href="src/recommender.html">Recommender</a></li>
+          <li><a href="src/about.html">About</a></li>
+        </ul>
+      </nav>
     </header>
-    <main>
+    <main class="hero-image">
         <div class="div1">
-            <div id="search">
-                <input type="text" placeholder="Search for your favorite book or look for new books" spellcheck="false">
-                <button><img src="images/searchmagnifierinterfacesymbol1_79893.png" alt="Search Button"></button>
+            <div class="search">
+                <input
+                    type="text"
+                    placeholder="Search for your favorite book or look for new books"
+                    spellcheck="false"
+                />
+                <button>
+                    <img
+                    src="images/searchmagnifierinterfacesymbol1_79893.png"
+                    alt="Search Button"
+                    />
+                </button>
+            </div>
+            <div class="error">
+                <p>Error invalid input</p>
             </div>
         </div>
-        <div class="div2">
+        <div class="div2"></div>
 
-        </div>
     </main>
     <div id="root"></div>
     <footer>
+      <hr>
+      <div class="footer">
+        <p>&copy;2024 <b>Edem Francis</b></p>
         <div>
-            
+          <a href="#"><img src="src/images/facebook-img.png" alt="facebook-img"></a>
+          <a href="#"><img src="src/images/instagram-img.png" alt="instagram-img"></a>
         </div>
+      </div>
     </footer>
-    <script type="module" src="/js/index.js"> </script>
-    <script type="module" src="js/utilis.js"></script>
-</body>
+    <script type="module" src="/js/index.js"></script>
+    <script type="module" src="js/utilis.mjs"></script>
+    <script type="module" src="/js/popup.js"></script>
+  </body>
 </html>

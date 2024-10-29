@@ -131,3 +131,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+.DS_Store
+.cache
+.vscode
+web_modules
+node_modules
+dist
+.env
