@@ -1,0 +1,730 @@
+[
+  {
+    "kind": "books#volume",
+    "id": "LWZxD-GkwxMC",
+    "etag": "o5CAcdC9DJI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/LWZxD-GkwxMC",
+    "volumeInfo": {
+      "title": "The Creator's Dimensions",
+      "authors": [
+        "Peter. J. Sell"
+      ],
+      "publisher": "Lulu.com",
+      "publishedDate": "2008-11-20",
+      "description": "This book is pure Sci Fi and NO WIZARDS, MAGIC, DUNGEON'S or DRAGON's are in it. It is the story of a band of Dimensionaut's who as small pioneering teams venture to the far corners of the Universe. It is their story starting with the problems of the early days of the programme and the trials and tribulations of their many trips to strange worlds. their encounters with both very advanced entities and primitive life forms. It is accounts of their contacts with beings from other dimensions and finally what happened when one of them ends up going outside of the known Universe. The subsequent meeting with the Creator has profound consequences for the human race on her return. Other books by the same author From Blood to Compassion version 1 & 2",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781409240266"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1409240266"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": true
+      },
+      "pageCount": 280,
+      "printType": "BOOK",
+      "categories": [
+        "Fiction"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "2.3.4.0.preview.3",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=LWZxD-GkwxMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=LWZxD-GkwxMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=LWZxD-GkwxMC&pg=PA245&dq=creator&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=LWZxD-GkwxMC&dq=creator&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Creator_s_Dimensions.html?hl=&id=LWZxD-GkwxMC"
+    },
+    "saleInfo": {
+      "country": "NG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "NG",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/The_Creator_s_Dimensions-sample-epub.acsm?id=LWZxD-GkwxMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/The_Creator_s_Dimensions-sample-pdf.acsm?id=LWZxD-GkwxMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=LWZxD-GkwxMC&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>Creator</b> started to talk and looked a little annoyed. &quot;It is rather arrogant of you and many other species in both your Universe and other Universes to think that you are created in the image of the <b>Creator</b>. I appear before you in the&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "YVyTDwAAQBAJ",
+    "etag": "RSFXhZ4NKGA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/YVyTDwAAQBAJ",
+    "volumeInfo": {
+      "title": "The Creator's Plan: by Retired CIA Operative Officer Le Femme Nikita",
+      "authors": [
+        "Debra Han"
+      ],
+      "publisher": "Lulu.com",
+      "publishedDate": "2019-01-13",
+      "description": "A collection of notes and texts reflective of the author's personal voice for the selective audience.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9780359358229"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "0359358225"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 20,
+      "printType": "BOOK",
+      "categories": [
+        "Religion"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.1.2.0.preview.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=YVyTDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=YVyTDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=YVyTDwAAQBAJ&pg=PP3&dq=creator&hl=&cd=2&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=YVyTDwAAQBAJ&dq=creator&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Creator_s_Plan_by_Retired_CIA_Operat.html?hl=&id=YVyTDwAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "NG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "NG",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/The_Creator_s_Plan_by_Retired_CIA_Operat-sample-pdf.acsm?id=YVyTDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=YVyTDwAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "Debra Han. Once upon a time, The <b>Creator</b> created itself, A plan to have offspring Or children. Told its offspring to Fornicate to build Families to work, to subsist. The <b>Creator&#39;s</b> plan To have offspring Build families for the <b>Creator</b> So&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "AZFykbvmJ_4C",
+    "etag": "aXXm2gLzDeg",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/AZFykbvmJ_4C",
+    "volumeInfo": {
+      "title": "The Working Man's Week; Or, Thoughts on the Creator's Distribution of Labour & Rest",
+      "authors": [
+        "David Carnegie A. AGNEW"
+      ],
+      "publishedDate": "1850",
+      "industryIdentifiers": [
+        {
+          "type": "OTHER",
+          "identifier": "BL:A0023361142"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 44,
+      "printType": "BOOK",
+      "categories": [
+        "Sunday"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.4.5.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=AZFykbvmJ_4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=AZFykbvmJ_4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=AZFykbvmJ_4C&pg=PA4&dq=creator&hl=&cd=3&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=AZFykbvmJ_4C&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=AZFykbvmJ_4C"
+    },
+    "saleInfo": {
+      "country": "NG",
+      "saleability": "FREE",
+      "isEbook": true,
+      "buyLink": "https://play.google.com/store/books/details?id=AZFykbvmJ_4C&rdid=book-AZFykbvmJ_4C&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+      "country": "NG",
+      "viewability": "ALL_PAGES",
+      "embeddable": true,
+      "publicDomain": true,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false,
+        "downloadLink": "http://books.google.com/books/download/The_Working_Man_s_Week_Or_Thoughts_on_th.epub?id=AZFykbvmJ_4C&hl=&output=epub&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=AZFykbvmJ_4C&hl=&source=gbs_api",
+      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>Creator</b> . Accordingly , He who gave his heavenly and parental blessing to all his living creatures , and especially to man , the <b>Creator&#39;s</b> image - JEHOVAH crowned the whole of creation with a perpetual and practical benediction by&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "yY4hlFJse5oC",
+    "etag": "MEQ5HrdqEy4",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/yY4hlFJse5oC",
+    "volumeInfo": {
+      "title": "The Creator's Manual for Your Body",
+      "authors": [
+        "Jamie Fettig"
+      ],
+      "publisher": "Bazuji Publishing LLC",
+      "publishedDate": "2004-10",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "0976155508"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9780976155508"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 256,
+      "printType": "BOOK",
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "1.4.5.0.preview.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=yY4hlFJse5oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=yY4hlFJse5oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=yY4hlFJse5oC&pg=PA219&dq=creator&hl=&cd=4&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=yY4hlFJse5oC&dq=creator&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Creator_s_Manual_for_Your_Body.html?hl=&id=yY4hlFJse5oC"
+    },
+    "saleInfo": {
+      "country": "NG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "NG",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/The_Creator_s_Manual_for_Your_Body-sample-pdf.acsm?id=yY4hlFJse5oC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=yY4hlFJse5oC&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>Creator</b> . Being conscious so you don&#39;t inadvertently ask for something you don&#39;t want . Being conscious as you are actually resting . Being conscious when you are taking the full deep breaths of fresh air into your body . Being&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "fav4EAAAQBAJ",
+    "etag": "2OXKcSk7R54",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/fav4EAAAQBAJ",
+    "volumeInfo": {
+      "title": "Creator's Economy in Metaverse Platforms: Empowering Stakeholders Through Omnichannel Approach",
+      "subtitle": "Empowering Stakeholders Through Omnichannel Approach",
+      "authors": [
+        "Singla, Babita",
+        "Shalender, Kumar",
+        "Singh, Nripendra"
+      ],
+      "publisher": "IGI Global",
+      "publishedDate": "2024-02-26",
+      "description": "In the era of the metaverse, a big challenge permeates the digital landscapea challenge that resonates both with creators seeking to thrive in this dynamic space and policymakers attempting to navigate its uncharted territories. Creators, driven by innovation, grapple with a myriad of uncertainties in monetizing their virtual content effectively. Simultaneously, policymakers find themselves at a crossroads, caught between the rapid evolution of the virtual realm and the lack of clear regulatory guidelines. This struggle is exacerbated by the issue of cybersecurity threats that cast a shadow over the metaverse's transformative potential. It is within this context of challenges that Creator's Economy in Metaverse Platforms emerges, poised to tackle the pressing issues at the intersection of creativity, regulation, and the ever-expanding metaverse. Creator's Economy in Metaverse Platforms dissects, analyzes, and offers solutions to the multifaceted challenges prevailing in the metaverse. By addressing fundamental questions about the creator economy, the elusive concept of the metaverse economy, and the indispensable role policymakers play, the book provides a holistic understanding of the landscape. Delving into topics such as stakeholder engagement, digital asset management, and the intricacies of various monetization models, it equips readers with actionable insights. Not content with a reactive approach, the book takes a proactive stance, offering solutions to foster interoperability and create an ecosystem where creators and policymakers can mutually thrive. It envisions not just a book but a catalyst for transformative change in the metaverse.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9798369333594"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 306,
+      "printType": "BOOK",
+      "categories": [
+        "Computers"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=fav4EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=fav4EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=fav4EAAAQBAJ&pg=PR2&dq=creator&hl=&cd=5&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=fav4EAAAQBAJ&dq=creator&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Creator_s_Economy_in_Metaverse_Platforms.html?hl=&id=fav4EAAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "NG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "NG",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Creator_s_Economy_in_Metaverse_Platforms-sample-pdf.acsm?id=fav4EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=fav4EAAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>Creator&#39;s</b> economy in metaverse platforms : empowering stakeholders through omnichannel approach / edited by Babita ... <b>creators</b> &#39; economies on different platforms , and by suggesting ways to facilitate interoperability , the title&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "H2UX6DtXbuYC",
+    "etag": "2h3v93T+1X4",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/H2UX6DtXbuYC",
+    "volumeInfo": {
+      "title": "The Creator's Diet",
+      "authors": [
+        "Nicola Burgher"
+      ],
+      "publisher": "Pneuma Springs Publishing",
+      "publishedDate": "2006-06-01",
+      "description": "\"Sensing the importance of the issue at hand, Nicola Burgher approaches the subject of Healthy Eating as consummate professional, not only does she possess the qualifications to address the subject but she has undergirded her study with the fundamental principles of the Bible. It is upon this that the strength of her work lies and it is reminiscent of the book \"Back to Eden\" by Jethro Kloss published first in 1946. Ms. Burgher takes us back to the beginning and to the Creator and reminds us that there is a better way to live if we follow the Creators manual. Sensing the importance of the issue at hand Nicola Burgher has written a must read book for the survival of this generation and generations to come.\" Book reviews online: PublishedBestsellers website.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9780954551087"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "0954551087"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": true
+      },
+      "pageCount": 88,
+      "printType": "BOOK",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "averageRating": 4,
+      "ratingsCount": 1,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "1.9.9.0.preview.3",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=H2UX6DtXbuYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=H2UX6DtXbuYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=H2UX6DtXbuYC&pg=PA62&dq=creator&hl=&cd=6&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=H2UX6DtXbuYC&dq=creator&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Creator_s_Diet.html?hl=&id=H2UX6DtXbuYC"
+    },
+    "saleInfo": {
+      "country": "NG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "NG",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/The_Creator_s_Diet-sample-epub.acsm?id=H2UX6DtXbuYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/The_Creator_s_Diet-sample-pdf.acsm?id=H2UX6DtXbuYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=H2UX6DtXbuYC&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "wNDQdu7iIpYC",
+    "etag": "Nbo2XDORKjI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/wNDQdu7iIpYC",
+    "volumeInfo": {
+      "title": "The Creators",
+      "authors": [
+        "Daniel Dewey"
+      ],
+      "publisher": "Daniel Melchizedek Dewey",
+      "publishedDate": "2009-09",
+      "description": "In this classic story of a boy and his dog and interdimensional time travel, a teenage boy explores the infinite possibilities that exist in other dimensions of being, and discovers the power of the human mind. (Written in 1999 and 2000)",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9780578026886"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "0578026880"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": true
+      },
+      "pageCount": 236,
+      "printType": "BOOK",
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.2.3.0.preview.3",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=wNDQdu7iIpYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=wNDQdu7iIpYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=wNDQdu7iIpYC&pg=PA218&dq=creator&hl=&cd=7&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=wNDQdu7iIpYC&dq=creator&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Creators.html?hl=&id=wNDQdu7iIpYC"
+    },
+    "saleInfo": {
+      "country": "NG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "NG",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/The_Creators-sample-epub.acsm?id=wNDQdu7iIpYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/The_Creators-sample-pdf.acsm?id=wNDQdu7iIpYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=wNDQdu7iIpYC&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>creator</b>, which you are not. You have allowed yourself to be nothing but a hand of an uncontrollable mind,” I continued. “If that is how you see it. Let it be done without you. Now old man your suffering will end,” he said as he raised&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "bTaf3A1PCZkC",
+    "etag": "X/IUqijYVW0",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/bTaf3A1PCZkC",
+    "volumeInfo": {
+      "title": "A Dictionary of Hymnology",
+      "subtitle": "Setting Forth the Origin and History of Christian Hymns of All Ages and Nations, with Special Reference to Those Contained in the Hymn Books of English-speaking Countries and Now in Common Use ..",
+      "authors": [
+        "John Julian"
+      ],
+      "publishedDate": "1892",
+      "industryIdentifiers": [
+        {
+          "type": "OTHER",
+          "identifier": "BSB:BSB11648555"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 1636,
+      "printType": "BOOK",
+      "categories": [
+        "Hymns"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.1.2.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=bTaf3A1PCZkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=bTaf3A1PCZkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=bTaf3A1PCZkC&pg=PA1335&dq=creator&hl=&cd=8&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=bTaf3A1PCZkC&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bTaf3A1PCZkC"
+    },
+    "saleInfo": {
+      "country": "NG",
+      "saleability": "FREE",
+      "isEbook": true,
+      "buyLink": "https://play.google.com/store/books/details?id=bTaf3A1PCZkC&rdid=book-bTaf3A1PCZkC&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+      "country": "NG",
+      "viewability": "ALL_PAGES",
+      "embeddable": true,
+      "publicDomain": true,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false,
+        "downloadLink": "http://books.google.com/books/download/A_Dictionary_of_Hymnology.epub?id=bTaf3A1PCZkC&hl=&output=epub&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=bTaf3A1PCZkC&hl=&source=gbs_api",
+      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>Creator</b> Spiritus , Mentes Creating Spirit , Holy Guest , 1211 , i . , Veni <b>Creator</b> Spiritus , Mentes <b>Creator</b> alme siderum , 256 , i . , Conditor alme siderum ; 911 , i . , Primers <b>Creator</b> , ere this fall of day , 1135 , ii . , Te&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "KrDwwAEACAAJ",
+    "etag": "nAbvNcxILQc",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/KrDwwAEACAAJ",
+    "volumeInfo": {
+      "title": "I Believe in the Creator",
+      "authors": [
+        "James M. Houston",
+        "Michael Green"
+      ],
+      "publisher": "Regent College Pub",
+      "publishedDate": "1995-10",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "1573830461"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9781573830461"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 288,
+      "printType": "BOOK",
+      "categories": [
+        "Religion"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=KrDwwAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=KrDwwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=KrDwwAEACAAJ&dq=creator&hl=&cd=9&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=KrDwwAEACAAJ&dq=creator&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/I_Believe_in_the_Creator.html?hl=&id=KrDwwAEACAAJ"
+    },
+    "saleInfo": {
+      "country": "NG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "NG",
+      "viewability": "NO_PAGES",
+      "embeddable": false,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=KrDwwAEACAAJ&hl=&source=gbs_api",
+      "accessViewStatus": "NONE",
+      "quoteSharingAllowed": false
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "hA6fEAAAQBAJ",
+    "etag": "SSi+u++0BQY",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/hA6fEAAAQBAJ",
+    "volumeInfo": {
+      "title": "Influencers and Creators",
+      "subtitle": "Business, Culture and Practice",
+      "authors": [
+        "Robert V Kozinets",
+        "Ulrike Gretzel",
+        "Rossella Gambetti"
+      ],
+      "publisher": "SAGE",
+      "publishedDate": "2023-04-15",
+      "description": "Influencers and content creators have profoundly impacted business and culture. This textbook combines cutting-edge conceptual and critical thinking on the subject with practical advice to go above and beyond what existing social media marketing textbooks offer. Using examples from around the world, it examines the influencer phenomenon from a variety of perspectives and also explains why influencers are becoming indispensable to governments, platforms, and brands. Key topics explored are: the influencer phenomenon as a form of persuasion as a structural change in media as a culture shift as a challenge to equality regulations impacting the phenomenon ethical implications With useful features, readers will gain a 360-degree view of one of the world′s most important new media phenomena.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781529785975"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1529785979"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": true
+      },
+      "pageCount": 316,
+      "printType": "BOOK",
+      "categories": [
+        "Business & Economics"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "1.2.2.0.preview.3",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=hA6fEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=hA6fEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=hA6fEAAAQBAJ&pg=PT24&dq=creator&hl=&cd=10&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=hA6fEAAAQBAJ&dq=creator&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Influencers_and_Creators.html?hl=&id=hA6fEAAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "NG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "NG",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Influencers_and_Creators-sample-epub.acsm?id=hA6fEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Influencers_and_Creators-sample-pdf.acsm?id=hA6fEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=hA6fEAAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>creators</b>. Many people use the term synonymously. Some believe that the term &#39;<b>creator</b>&#39; or &#39;content <b>creator</b>&#39; is a more attractive term than influencer because it does not suggest manipulation or a persuasive sales orientation. The media&nbsp;..."
+    }
+  }
+]

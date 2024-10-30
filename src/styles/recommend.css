@@ -1,0 +1,50 @@
+
+.recommender{
+    margin: 10px;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 30px;
+}
+
+section {
+    margin: 0.1rem;
+    padding: 0.3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: rgba(153, 132, 132, 0.429);
+    text-align: center;
+}
+
+section img {
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    box-shadow: 4px 4px 20px #242323;
+}
+section h2{
+  color: rgb(0, 0, 0);
+  font-size: 2vw;
+}
+h2:hover{
+    color: white;
+}
+section:hover{
+    border-radius: 4px;
+    opacity: 3;
+    transform: scale(1.12);
+    transition: transform 0.4s 0.2s;
+    background-color: rgba(0, 0, 0, 0.779);
+    color: white;
+}
+section img:hover{
+    border-radius: 4px;
+    opacity: 1;
+    transform: scale(1.09);
+    box-shadow: 0 0 30px #242323;
+    cursor: pointer;
+    transition: transform 0.4s 0.2s;
+} 

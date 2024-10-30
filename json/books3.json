@@ -1,0 +1,743 @@
+[
+  {
+    "kind": "books#volume",
+    "id": "cDYL4unSDHkC",
+    "etag": "01t+Y9zz6Y0",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/cDYL4unSDHkC",
+    "volumeInfo": {
+      "title": "The Female King of Colonial Nigeria",
+      "subtitle": "Ahebi Ugbabe",
+      "authors": [
+        "Nwando Achebe"
+      ],
+      "publisher": "Indiana University Press",
+      "publishedDate": "2011-02-21",
+      "description": "While providing critical perspectives on women, gender, sex and sexuality, and the colonial encounter, she considers how it was possible for this woman to take on the office and responsibilities of a traditionally male role.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9780253222480"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "0253222486"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": true
+      },
+      "pageCount": 323,
+      "printType": "BOOK",
+      "categories": [
+        "Biography & Autobiography"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.2.3.0.preview.3",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=cDYL4unSDHkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=cDYL4unSDHkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=cDYL4unSDHkC&printsec=frontcover&dq=King+woman&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=cDYL4unSDHkC&dq=King+woman&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Female_King_of_Colonial_Nigeria.html?hl=&id=cDYL4unSDHkC"
+    },
+    "saleInfo": {
+      "country": "NG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "NG",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/The_Female_King_of_Colonial_Nigeria-sample-epub.acsm?id=cDYL4unSDHkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/The_Female_King_of_Colonial_Nigeria-sample-pdf.acsm?id=cDYL4unSDHkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=cDYL4unSDHkC&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "While providing critical perspectives on women, gender, sex and sexuality, and the colonial encounter, she considers how it was possible for this woman to take on the office and responsibilities of a traditionally male role."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "1fP_DwAAQBAJ",
+    "etag": "9KLlbFANS8I",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/1fP_DwAAQBAJ",
+    "volumeInfo": {
+      "title": "All the King’s Women: Polygyny and Politics in Europe, 900–1250",
+      "authors": [
+        "Jan Rüdiger"
+      ],
+      "publisher": "BRILL",
+      "publishedDate": "2020-09-25",
+      "description": "In All the King’s Women Jan Rüdiger investigates medieval elite polygyny and its ‘uses’ in Northern Europe with a comparative perspective on England and France as well as Iberia.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9789004434578"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "9004434577"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 464,
+      "printType": "BOOK",
+      "categories": [
+        "History"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.1.1.0.preview.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=1fP_DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=1fP_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=1fP_DwAAQBAJ&printsec=frontcover&dq=King+woman&hl=&cd=2&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=1fP_DwAAQBAJ&dq=King+woman&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/All_the_King_s_Women_Polygyny_and_Politi.html?hl=&id=1fP_DwAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "NG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "NG",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/All_the_King_s_Women_Polygyny_and_Politi-sample-pdf.acsm?id=1fP_DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=1fP_DwAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "In this book, Jan Rüdiger investigates the plurality of man-woman relationships in medieval Scandinavia and analyses the social and political ‘uses’ of elite polygyny."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "u8Aa10Ea4qcC",
+    "etag": "IfqShDe6hnU",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/u8Aa10Ea4qcC",
+    "volumeInfo": {
+      "title": "A Woman's Path to True Significance",
+      "authors": [
+        "Beverly LaHaye",
+        "Janice Crouse"
+      ],
+      "publisher": "Harvest House Publishers",
+      "publishedDate": "2007-03-01",
+      "description": "Bestselling authors share God's blueprint for becoming a woman of real strength and virtue. They affirm the wonderful truth that no matter how ordinary a woman's circumstances or how imperfect she is, God is able to work within her to bring about the most beautiful of spiritual fruit.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9780736920124"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "0736920129"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": true
+      },
+      "pageCount": 305,
+      "printType": "BOOK",
+      "categories": [
+        "Religion"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "3.2.2.0.preview.3",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=u8Aa10Ea4qcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=u8Aa10Ea4qcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=u8Aa10Ea4qcC&pg=PA284&dq=King+woman&hl=&cd=3&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=u8Aa10Ea4qcC&dq=King+woman&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/A_Woman_s_Path_to_True_Significance.html?hl=&id=u8Aa10Ea4qcC"
+    },
+    "saleInfo": {
+      "country": "NG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "NG",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/A_Woman_s_Path_to_True_Significance-sample-epub.acsm?id=u8Aa10Ea4qcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/A_Woman_s_Path_to_True_Significance-sample-pdf.acsm?id=u8Aa10Ea4qcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=u8Aa10Ea4qcC&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>King</b> David. The whole episode would make a good Shake- spearean play. <b>King</b> sees beautiful <b>woman</b>. He has to have her. She conceives. <b>King</b> kills husband. <b>King</b> takes <b>woman</b> as his <b>wife</b>. Brave man confronts <b>king</b> with his sin. <b>King</b> repents&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "5ZTelqdJKgQC",
+    "etag": "W7FK/QlvPCE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/5ZTelqdJKgQC",
+    "volumeInfo": {
+      "title": "Zulu Woman",
+      "subtitle": "The Life Story of Christina Sibiya",
+      "authors": [
+        "Rebecca Hourwich Reyher"
+      ],
+      "publisher": "Feminist Press at CUNY",
+      "publishedDate": "1999",
+      "description": "The riveting life story of a South African woman who marries into the Zulu royal family, and after enduring psychological and physical abuses, finds the courage to leave.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "1558612033"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9781558612037"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": false
+      },
+      "pageCount": 260,
+      "printType": "BOOK",
+      "categories": [
+        "Biography & Autobiography"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.3.5.0.preview.2",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=5ZTelqdJKgQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=5ZTelqdJKgQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=5ZTelqdJKgQC&pg=PA34&dq=King+woman&hl=&cd=4&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=5ZTelqdJKgQC&dq=King+woman&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Zulu_Woman.html?hl=&id=5ZTelqdJKgQC"
+    },
+    "saleInfo": {
+      "country": "NG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "NG",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Zulu_Woman-sample-epub.acsm?id=5ZTelqdJKgQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=5ZTelqdJKgQC&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>King</b> . <b>Woman&#39;s</b> work ! Why did not a &#39; qhikiza , whose duty it is to prepare young girls for their woman&#39;s responsibilities , tell her ? I&#39;m just an auntie , an old lady ! &quot; Something in Christina&#39;s shaking shoulders brought an automatic&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "UFuoUI5vMsUC",
+    "etag": "ZLfNPwuuXIs",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/UFuoUI5vMsUC",
+    "volumeInfo": {
+      "title": "Confessions of a Failed Southern Lady",
+      "authors": [
+        "Florence King"
+      ],
+      "publisher": "Macmillan + ORM",
+      "publishedDate": "1990-09-15",
+      "description": "Confessions of a Failed Southern Lady is Florence King's classic memoir of her upbringing in an eccentric Southern family, told with all the uproarious wit and gusto that has made her one of the most admired writers in the country. Florence may have been a disappointment to her Granny, whose dream of rearing a Perfect Southern Lady would never be quite fulfilled. But after all, as Florence reminds us, \"no matter which sex I went to bed with, I never smoked on the street.\"",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781466816268"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1466816260"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": false
+      },
+      "pageCount": 289,
+      "printType": "BOOK",
+      "categories": [
+        "Biography & Autobiography"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "1.5.5.0.preview.2",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=UFuoUI5vMsUC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=UFuoUI5vMsUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=UFuoUI5vMsUC&dq=King+woman&hl=&cd=5&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=UFuoUI5vMsUC&dq=King+woman&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Confessions_of_a_Failed_Southern_Lady.html?hl=&id=UFuoUI5vMsUC"
+    },
+    "saleInfo": {
+      "country": "NG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "NG",
+      "viewability": "NO_PAGES",
+      "embeddable": false,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true
+      },
+      "pdf": {
+        "isAvailable": true
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=UFuoUI5vMsUC&hl=&source=gbs_api",
+      "accessViewStatus": "NONE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "Confessions of a Failed Southern Lady is Florence King&#39;s classic memoir of her upbringing in an eccentric Southern family, told with all the uproarious wit and gusto that has made her one of the most admired writers in the country."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "AlXcxAw_RM4C",
+    "etag": "DMwJLJoLZDQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/AlXcxAw_RM4C",
+    "volumeInfo": {
+      "title": "Antipatterns",
+      "subtitle": "Managing Software Organizations and People, Second Edition",
+      "authors": [
+        "Colin J. Neill",
+        "Philip A. Laplante",
+        "Joanna F. DeFranco"
+      ],
+      "publisher": "CRC Press",
+      "publishedDate": "2011-12-13",
+      "description": "Emphasizing leadership principles and practices, Antipatterns: Managing Software Organizations and People, Second Edition catalogs 49 business practices that are often precursors to failure. This updated edition of a bestseller not only illustrates bad management approaches, but also covers the bad work environments and cultural traits commonly fou",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781466516564"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1466516569"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": true
+      },
+      "pageCount": 288,
+      "printType": "BOOK",
+      "categories": [
+        "Business & Economics"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "1.2.2.0.preview.3",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=AlXcxAw_RM4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=AlXcxAw_RM4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=AlXcxAw_RM4C&pg=PT163&dq=King+woman&hl=&cd=6&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=AlXcxAw_RM4C&dq=King+woman&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Antipatterns.html?hl=&id=AlXcxAw_RM4C"
+    },
+    "saleInfo": {
+      "country": "NG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "NG",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Antipatterns-sample-epub.acsm?id=AlXcxAw_RM4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Antipatterns-sample-pdf.acsm?id=AlXcxAw_RM4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=AlXcxAw_RM4C&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>King</b> Arthur : How do you do , good <b>lady</b> ? I am <b>King</b> Arthur , <b>king</b> of the Britons . Whose castle is that ? <b>Woman</b> : <b>King</b> of the who ? <b>King</b> Arthur : The Britons . <b>Woman</b> : Who are the Britons ? <b>King</b> Arthur : Well , we all are . We are all&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "l9VLbc1zkgoC",
+    "etag": "ATZ4T9CH0VA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/l9VLbc1zkgoC",
+    "volumeInfo": {
+      "title": "The Nobility and Excellence of Women and the Defects and Vices of Men",
+      "authors": [
+        "Lucrezia Marinella"
+      ],
+      "publisher": "University of Chicago Press",
+      "publishedDate": "2007-11-01",
+      "description": "A gifted poet, a women's rights activist, and an expert on moral and natural philosophy, Lucrezia Marinella (1571-1653) was known throughout Italy as the leading female intellectual of her age. Born into a family of Venetian physicians, she was encouraged to study, and, fortunately, she did not share the fate of many of her female contemporaries, who were forced to join convents or were pressured to marry early. Marinella enjoyed a long literary career, writing mainly religious, epic, and pastoral poetry, and biographies of famous women in both verse and prose. Marinella's masterpiece, The Nobility and Excellence of Women, and the Defects and Vices of Men was first published in 1600, composed at a furious pace in answer to Giusepe Passi's diatribe about women's alleged defects. This polemic displays Marinella's vast knowledge of the Italian poetic tradition and demonstrates her ability to argue against authors of the misogynist tradition from Boccaccio to Torquato Tasso. Trying to effect real social change, Marinella argued that morally, intellectually, and in many other ways, women are superior to men.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9780226505503"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "0226505502"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": true
+      },
+      "pageCount": 228,
+      "printType": "BOOK",
+      "categories": [
+        "Social Science"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "2.5.5.0.preview.3",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=l9VLbc1zkgoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=l9VLbc1zkgoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=l9VLbc1zkgoC&pg=PA75&dq=King+woman&hl=&cd=7&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=l9VLbc1zkgoC&dq=King+woman&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Nobility_and_Excellence_of_Women_and.html?hl=&id=l9VLbc1zkgoC"
+    },
+    "saleInfo": {
+      "country": "NG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "NG",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/The_Nobility_and_Excellence_of_Women_and-sample-epub.acsm?id=l9VLbc1zkgoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/The_Nobility_and_Excellence_of_Women_and-sample-pdf.acsm?id=l9VLbc1zkgoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=l9VLbc1zkgoC&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>king</b> or other great man , conferred on <b>women</b> in the presence of many wise and great men . I intend to appease them fully , even if I am not obliged to do so , because I wish to satisfy them and remove every occasion for doubt . Listen&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "6KxCDwAAQBAJ",
+    "etag": "skCGktT8HOg",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/6KxCDwAAQBAJ",
+    "volumeInfo": {
+      "title": "Freedom's Progress?",
+      "authors": [
+        "Gerard Casey"
+      ],
+      "publisher": "Andrews UK Limited",
+      "publishedDate": "2021-10-04",
+      "description": "In Freedom's Progress?, Gerard Casey argues that the progress of freedom has largely consisted in an intermittent and imperfect transition from tribalism to individualism, from the primacy of the collective to the fragile centrality of the individual person and of freedom. Such a transition is, he argues, neither automatic nor complete, nor are relapses to tribalism impossible. The reason for the fragility of freedom is simple: the importance of individual freedom is simply not obvious to everyone. Most people want security in this world, not liberty. 'Libertarians,' writes Max Eastman, 'used to tell us that \"the love of freedom is the strongest of political motives,\" but recent events have taught us the extravagance of this opinion. The \"herd-instinct\" and the yearning for paternal authority are often as strong. Indeed the tendency of men to gang up under a leader and submit to his will is of all political traits the best attested by history.' The charm of the collective exercises a perennial magnetic attraction for the human spirit. In the 20th century, Fascism, Bolshevism and National Socialism were, Casey argues, each of them a return to tribalism in one form or another and many aspects of our current Western welfare states continue to embody tribalist impulses. Thinkers you would expect to feature in a history of political thought feature in this book - Plato, Aristotle, Machiavelli, Locke, Mill and Marx - but you will also find thinkers treated in Freedom's Progress? who don't usually show up in standard accounts - Johannes Althusius, Immanuel Kant, William Godwin, Max Stirner, Joseph Proudhon, Mikhail Bakunin, Pyotr Kropotkin, Josiah Warren, Benjamin Tucker and Auberon Herbert. Freedom's Progress? also contains discussions of the broader social and cultural contexts in which politics takes its place, with chapters on slavery, Christianity, the universities, cities, Feudalism, law, kingship, the Reformation, the English Revolution and what Casey calls Twentieth Century Tribalisms - Bolshevism, Fascism and National Socialism and an extensive chapter on human prehistory.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781845409616"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1845409612"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 969,
+      "printType": "BOOK",
+      "categories": [
+        "Philosophy"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.3.3.0.preview.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=6KxCDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=6KxCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=6KxCDwAAQBAJ&pg=PT263&dq=King+woman&hl=&cd=8&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=6KxCDwAAQBAJ&dq=King+woman&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Freedom_s_Progress.html?hl=&id=6KxCDwAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "NG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "NG",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Freedom_s_Progress-sample-pdf.acsm?id=6KxCDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=6KxCDwAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... Woman : King of the who ? Arthur : The Britons . Woman : Who are the Britons ? Arthur : Well , we all are . We&#39;re all Britons and I am your <b>king</b> . <b>Woman</b> : I didn&#39;t know we had a king . I thought we were an autonomous collective . An&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "np5hAAAAcAAJ",
+    "etag": "trCq0GrxepM",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/np5hAAAAcAAJ",
+    "volumeInfo": {
+      "title": "Extracts from the journal of the Rev. William Davies, 1st, when a missionary at Sierra Leone, Western Africa; containing some account of the country, etc",
+      "authors": [
+        "William DAVIES (Wesleyan Missionary.)"
+      ],
+      "publishedDate": "1835",
+      "industryIdentifiers": [
+        {
+          "type": "OTHER",
+          "identifier": "BL:A0019882128"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 86,
+      "printType": "BOOK",
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.4.4.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=np5hAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=np5hAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=np5hAAAAcAAJ&pg=PA18&dq=King+woman&hl=&cd=9&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=np5hAAAAcAAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=np5hAAAAcAAJ"
+    },
+    "saleInfo": {
+      "country": "NG",
+      "saleability": "FREE",
+      "isEbook": true,
+      "buyLink": "https://play.google.com/store/books/details?id=np5hAAAAcAAJ&rdid=book-np5hAAAAcAAJ&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+      "country": "NG",
+      "viewability": "ALL_PAGES",
+      "embeddable": true,
+      "publicDomain": true,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false,
+        "downloadLink": "http://books.google.com/books/download/Extracts_from_the_journal_of_the_Rev_Wil.epub?id=np5hAAAAcAAJ&hl=&output=epub&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=np5hAAAAcAAJ&hl=&source=gbs_api",
+      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... King of the Bulams , lives . He was an old man near a hundred years of age , and had several small children running ... woman could govern such a nation , and said to me , “ Me no savy how <b>king</b> - <b>woman</b> talk palavar . ” * He was&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "k6n3DwAAQBAJ",
+    "etag": "np/oiHuv5ss",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/k6n3DwAAQBAJ",
+    "volumeInfo": {
+      "title": "The Lady of Loyalty House",
+      "authors": [
+        "Justin Hantly McCarthy"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "publishedDate": "2020-08-14",
+      "description": "Reproduction of the original: The Lady of Loyalty House by Justin Hantly McCarthy",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9783752437010"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "3752437014"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 165,
+      "printType": "BOOK",
+      "categories": [
+        "Fiction"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.0.1.0.preview.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=k6n3DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=k6n3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=k6n3DwAAQBAJ&pg=PA125&dq=King+woman&hl=&cd=10&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=k6n3DwAAQBAJ&dq=King+woman&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Lady_of_Loyalty_House.html?hl=&id=k6n3DwAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "NG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "NG",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/The_Lady_of_Loyalty_House-sample-pdf.acsm?id=k6n3DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=k6n3DwAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>King&#39;s woman</b>, serve the King?” Brilliana was pertinacious. “If you were a King&#39;s man would you applaud me?” “If I were a King&#39;s man,” Evander confessed, “I could not choose but applaud you.” “But being a Puritan?” Brilliana persisted&nbsp;..."
+    }
+  }
+]

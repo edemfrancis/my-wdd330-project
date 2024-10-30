@@ -1,0 +1,729 @@
+[
+  {
+    "kind": "books#volume",
+    "id": "VnxuQgAACAAJ",
+    "etag": "5D9ngtYiHUE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/VnxuQgAACAAJ",
+    "volumeInfo": {
+      "title": "Cambridge Advanced Learner's Dictionary",
+      "authors": [
+        "Kate Woodford",
+        "Guy Jackson"
+      ],
+      "publishedDate": "2003",
+      "description": "The Cambridge Advanced Learner's Dictionary is the ideal dictionary for advanced EFL/ESL learners. Easy to use and with a great CD-ROM - the perfect learner's dictionary for exam success. First published as the Cambridge International Dictionary of English, this new edition has been completely updated and redesigned. - References to over 170,000 words, phrases and examples explained in clear and natural English - All the important new words that have come into the language (e.g. dirty bomb, lairy, 9/11, clickable) - Over 200 'Common Learner Error' notes, based on the Cambridge Learner Corpus from Cambridge ESOL exams Plus, on the CD-ROM: - SMART thesaurus - lets you find all the words with the same meaning - QUICKfind - automatically looks up words while you are working on-screen - SUPERwrite - tools for advanced writing, giving help with grammar and collocation - Hear and practise all the words.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "0521824230"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9780521824231"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 1550,
+      "printType": "BOOK",
+      "categories": [
+        "Foreign Language Study"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=VnxuQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=VnxuQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=VnxuQgAACAAJ&dq=.&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=VnxuQgAACAAJ&dq=.&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Cambridge_Advanced_Learner_s_Dictionary.html?hl=&id=VnxuQgAACAAJ"
+    },
+    "saleInfo": {
+      "country": "NG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "NG",
+      "viewability": "NO_PAGES",
+      "embeddable": false,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=VnxuQgAACAAJ&hl=&source=gbs_api",
+      "accessViewStatus": "NONE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "Easy to use and with a great CD-ROM - the perfect learner&#39;s dictionary for exam success. First published as the Cambridge International Dictionary of English, this new edition has been completely updated and redesigned."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "kmsQAQAAMAAJ",
+    "etag": "IocQQ5780EA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/kmsQAQAAMAAJ",
+    "volumeInfo": {
+      "title": "Help for the Teacher of Written Composition",
+      "subtitle": "New Directions in Research",
+      "authors": [
+        "National Conference on Research in English"
+      ],
+      "publishedDate": "1976",
+      "industryIdentifiers": [
+        {
+          "type": "OTHER",
+          "identifier": "UOM:49015000485749"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 88,
+      "printType": "BOOK",
+      "categories": [
+        "Education"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.5.6.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=kmsQAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=kmsQAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=kmsQAQAAMAAJ&pg=PA40&dq=.&hl=&cd=2&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=kmsQAQAAMAAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=kmsQAQAAMAAJ"
+    },
+    "saleInfo": {
+      "country": "NG",
+      "saleability": "FREE",
+      "isEbook": true,
+      "buyLink": "https://play.google.com/store/books/details?id=kmsQAQAAMAAJ&rdid=book-kmsQAQAAMAAJ&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+      "country": "NG",
+      "viewability": "ALL_PAGES",
+      "embeddable": true,
+      "publicDomain": true,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false,
+        "downloadLink": "http://books.google.com/books/download/Help_for_the_Teacher_of_Written_Composit.epub?id=kmsQAQAAMAAJ&hl=&output=epub&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=kmsQAQAAMAAJ&hl=&source=gbs_api",
+      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>full stop punctuation</b> ; ( c ) number of pairs of T - units joined illogically with coordinating conjunctions or commas ; and ( d ) number of fragments punctuated as sentences . Differences between silent and oral proofreading showed&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "FABSPgAACAAJ",
+    "etag": "/7URJP6OlWk",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/FABSPgAACAAJ",
+    "volumeInfo": {
+      "title": "CannaCorn",
+      "authors": [
+        "Con Chapman"
+      ],
+      "publisher": "Joshua Tree Pub",
+      "publishedDate": "2009",
+      "description": "The Worcester Quahogs are a mediocre minor league baseball team owned by Bud Templeton and mismanaged by his son, Trey. To his father's surprise, Trey takes to the job with relish and uses the experience as fodder for a book about baseball that he hopes will win him literary fame.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "0982370318"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9780982370315"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 336,
+      "printType": "BOOK",
+      "categories": [
+        "Fiction"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=FABSPgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=FABSPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=FABSPgAACAAJ&dq=.&hl=&cd=3&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=FABSPgAACAAJ&dq=.&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/CannaCorn.html?hl=&id=FABSPgAACAAJ"
+    },
+    "saleInfo": {
+      "country": "NG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "NG",
+      "viewability": "NO_PAGES",
+      "embeddable": false,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=FABSPgAACAAJ&hl=&source=gbs_api",
+      "accessViewStatus": "NONE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "The Worcester Quahogs are a mediocre minor league baseball team owned by Bud Templeton and mismanaged by his son, Trey."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "0N2PAgAAQBAJ",
+    "etag": "gNCeuuc1U5E",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/0N2PAgAAQBAJ",
+    "volumeInfo": {
+      "title": "Traditions of Writing Research",
+      "authors": [
+        "Charles Bazerman",
+        "Robert Krut",
+        "Karen Lunsford",
+        "Susan McLeod",
+        "Suzie Null",
+        "Paul Rogers",
+        "Amanda Stansell"
+      ],
+      "publisher": "Routledge",
+      "publishedDate": "2009-10-16",
+      "description": "Traditions of Writing Research reflects the different styles of work offered at the Writing Research Across Borders conference. Organized by Charles Bazerman, one of the pre-eminent scholars in writing studies, the conference facilitated an unprecedented gathering of writing researchers. Representing the best of the works presented, this collection focuses solely on writing research, in its lifespan scope bringing together writing researchers interested in early childhood through adult writing practices. It brings together differing research traditions, and offers a broad international scope, with contributor-presenters including top international researchers in the field The volume's opening section presents writing research agendas from different regions and research groups. The next section addresses the national, political, and historical contexts that shape educational institutions and the writing initiatives developed there. The following sections represent a wide range of research approaches for investigating writing processes and practices in primary, secondary, and higher education. The volume ends with theoretical and methodological reflections. This exemplary collection, like the conference that it grew out of, will bring new perspectives to the rich dialogue of contemporary research on writing and advance understanding of this complex and important human activity.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781135849955"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1135849951"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": true
+      },
+      "pageCount": 558,
+      "printType": "BOOK",
+      "categories": [
+        "Language Arts & Disciplines"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "1.3.3.0.preview.3",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=0N2PAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=0N2PAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=0N2PAgAAQBAJ&pg=PT179&dq=.&hl=&cd=4&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=0N2PAgAAQBAJ&dq=.&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Traditions_of_Writing_Research.html?hl=&id=0N2PAgAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "NG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "NG",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Traditions_of_Writing_Research-sample-epub.acsm?id=0N2PAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Traditions_of_Writing_Research-sample-pdf.acsm?id=0N2PAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=0N2PAgAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>full stop punctuation</b> punctuation 7 - year - old ( N = 262 ) Internal דיזיין Revised Initial Only final <b>full stop punctuation</b> 9 - year - old ( N = 290 ) Note Values correspond to percentages calculated on the total of initial and&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "koklEAAAQBAJ",
+    "etag": "zvZIwb58fSw",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/koklEAAAQBAJ",
+    "volumeInfo": {
+      "title": "The Blue Book of Grammar and Punctuation",
+      "subtitle": "An Easy-to-Use Guide with Clear Rules, Real-World Examples, and Reproducible Quizzes",
+      "authors": [
+        "Lester Kaufman",
+        "Jane Straus"
+      ],
+      "publisher": "John Wiley & Sons",
+      "publishedDate": "2021-05-04",
+      "description": "The bestselling workbook and grammar guide, revised and updated! Hailed as one of the best books around for teaching grammar, The Blue Book of Grammar and Punctuation includes easy-to-understand rules, abundant examples, dozens of reproducible quizzes, and pre- and post-tests to help teach grammar to middle and high schoolers, college students, ESL students, homeschoolers, and more. This concise, entertaining workbook makes learning English grammar and usage simple and fun. This updated 12th edition reflects the latest updates to English usage and grammar, and includes answers to all reproducible quizzes to facilitate self-assessment and learning. Clear and concise, with easy-to-follow explanations, offering \"just the facts\" on English grammar, punctuation, and usage Fully updated to reflect the latest rules, along with even more quizzes and pre- and post-tests to help teach grammar Ideal for students from seventh grade through adulthood in the US and abroad For anyone who wants to understand the major rules and subtle guidelines of English grammar and usage, The Blue Book of Grammar and Punctuation offers comprehensive, straightforward instruction.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781119653028"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1119653029"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 279,
+      "printType": "BOOK",
+      "categories": [
+        "Language Arts & Disciplines"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "1.2.2.0.preview.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=koklEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=koklEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=koklEAAAQBAJ&printsec=frontcover&dq=.&hl=&cd=5&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=koklEAAAQBAJ&dq=.&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Blue_Book_of_Grammar_and_Punctuation.html?hl=&id=koklEAAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "NG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "NG",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/The_Blue_Book_of_Grammar_and_Punctuation-sample-pdf.acsm?id=koklEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=koklEAAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "The Blue Book of Grammar and Punctuation is all it takes to master English usage! With hundreds of thousands of copies sold, this is one of the most trusted English language resources in existence."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "Of_hmU4b0XEC",
+    "etag": "tYP51aR1EnU",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Of_hmU4b0XEC",
+    "volumeInfo": {
+      "title": "Punctuation and Spelling",
+      "authors": [
+        "Rebecca Vickers"
+      ],
+      "publisher": "Raintree",
+      "publishedDate": "2014-05-08",
+      "description": "Uses a variety of texts to explain the rules of punctuation and spelling in English language.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781406261677"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "140626167X"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 58,
+      "printType": "BOOK",
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.1.1.0.preview.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=Of_hmU4b0XEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=Of_hmU4b0XEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=Of_hmU4b0XEC&pg=PA53&dq=.&hl=&cd=6&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=Of_hmU4b0XEC&dq=.&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Punctuation_and_Spelling.html?hl=&id=Of_hmU4b0XEC"
+    },
+    "saleInfo": {
+      "country": "NG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "NG",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Punctuation_and_Spelling-sample-pdf.acsm?id=Of_hmU4b0XEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=Of_hmU4b0XEC&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>full stop punctuation</b> mark used to indicate the end of a sentence grammar rules that deal with the structure of the words and sentences in a language grammatical relating to grammar homograph word that is spelled exactly like another&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "ZTA8AAAAMAAJ",
+    "etag": "sTVpBzQHt/I",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ZTA8AAAAMAAJ",
+    "volumeInfo": {
+      "title": "Transactions of the American Philological Association",
+      "authors": [
+        "American Philological Association"
+      ],
+      "publishedDate": "1974",
+      "industryIdentifiers": [
+        {
+          "type": "OTHER",
+          "identifier": "UOM:39015013525665"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 320,
+      "printType": "BOOK",
+      "categories": [
+        "Classical literature"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.7.2.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=ZTA8AAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=ZTA8AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=ZTA8AAAAMAAJ&dq=.&hl=&cd=7&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=ZTA8AAAAMAAJ&dq=.&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Transactions_of_the_American_Philologica.html?hl=&id=ZTA8AAAAMAAJ"
+    },
+    "saleInfo": {
+      "country": "NG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "NG",
+      "viewability": "NO_PAGES",
+      "embeddable": false,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=ZTA8AAAAMAAJ&hl=&source=gbs_api",
+      "accessViewStatus": "NONE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>full - stop punctuation</b> , it is not surprising that they find many fewer lines with no enjambement than does Parry ... <b>full- stop punctuation</b> , there is a discrepancy between the figures which their sample yields for verses with no&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "pSlPwwEACAAJ",
+    "etag": "vdwMBR0XbH4",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/pSlPwwEACAAJ",
+    "volumeInfo": {
+      "title": "Overcomer",
+      "subtitle": "8 Ways to Live a Life of Unstoppable Strength, Unmovable Faith, and Unbelievable Power",
+      "authors": [
+        "David Jeremiah"
+      ],
+      "publisher": "Thomas Nelson",
+      "publishedDate": "2019-09-23",
+      "description": "You were not made to live in disappointment, disillusionment, and defeat; God has given you the tools to live a life defined not by your trials but by your victories.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "0785220941"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9780785220947"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 240,
+      "printType": "BOOK",
+      "categories": [
+        "Religion"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=pSlPwwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=pSlPwwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=pSlPwwEACAAJ&dq=.&hl=&cd=8&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=pSlPwwEACAAJ&dq=.&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Overcomer.html?hl=&id=pSlPwwEACAAJ"
+    },
+    "saleInfo": {
+      "country": "NG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "NG",
+      "viewability": "NO_PAGES",
+      "embeddable": false,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=pSlPwwEACAAJ&hl=&source=gbs_api",
+      "accessViewStatus": "NONE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "In Overcomer, beloved teacher David Jeremiah offers his insights on one of the most quoted but least understood passages of the Bible: the apostle Paul&#39;s admonition to the Ephesians to take up the whole armor of God (Ephesians 6:10-18)."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "AZXscXVdlb8C",
+    "etag": "wzNUrEqMyKY",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/AZXscXVdlb8C",
+    "volumeInfo": {
+      "title": "Strategies for Writing",
+      "subtitle": "A Basic Approach",
+      "authors": [
+        "Ann E. Healy",
+        "Martha Walusayi"
+      ],
+      "publishedDate": "1997",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "0844259233"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9780844259239"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 520,
+      "printType": "BOOK",
+      "categories": [
+        "Language Arts & Disciplines"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "1.9.2.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=AZXscXVdlb8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=AZXscXVdlb8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=AZXscXVdlb8C&dq=.&hl=&cd=9&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=AZXscXVdlb8C&dq=.&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Strategies_for_Writing.html?hl=&id=AZXscXVdlb8C"
+    },
+    "saleInfo": {
+      "country": "NG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "NG",
+      "viewability": "NO_PAGES",
+      "embeddable": false,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=AZXscXVdlb8C&hl=&source=gbs_api",
+      "accessViewStatus": "NONE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>full - stop punctuation</b> marks : periods , question marks , exclamation points , semicolons , and colons . Note : Commas are not <b>full - stop punctuation</b> marks ; they are not strong enough for that purpose . Students sometimes think&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "sJtkDQAAQBAJ",
+    "etag": "ItaXxC/yZoY",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/sJtkDQAAQBAJ",
+    "volumeInfo": {
+      "title": "The Conception of Punishment in Early Indian Literature",
+      "authors": [
+        "Terence Day"
+      ],
+      "publisher": "Wilfrid Laurier Univ. Press",
+      "publishedDate": "2006-01-01",
+      "description": "Early textual source of the vast body of Dharmasastra literature of India on religion, law, and morality contain numerous statements that present or imply an undefined conception of punishment. Yet nowhere is this conception formally defined, as if knowledge of its nature and structure were generally known. In this “first-ever” attempt to provide a definition of the conception and to recover its ideational infrastructure, the author has drawn on these sources to reconstruct the theoretical backgrounds of its distinctive metaphysical, religious, juridical, social, and moral components. He shows that the conception is “the totality of correction principles, powers, agents, processes, and operations through which acts contrary to the Universal Order are counteracted and compensated.” The volume contains extensive documentation, a glossary of Sanskrit terms, a selected bibliography, and an index.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9780889208384"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "0889208387"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 336,
+      "printType": "BOOK",
+      "categories": [
+        "History"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.2.1.0.preview.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=sJtkDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=sJtkDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=sJtkDQAAQBAJ&pg=PA12&dq=.&hl=&cd=10&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=sJtkDQAAQBAJ&dq=.&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Conception_of_Punishment_in_Early_In.html?hl=&id=sJtkDQAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "NG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "NG",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/The_Conception_of_Punishment_in_Early_In-sample-pdf.acsm?id=sJtkDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=sJtkDQAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... first and second parts of metrical stanzas are transliterated herein as semi - colon and <b>full- stop punctuation</b> marks . Transliterations and Textual References 13 13. To avoid contentious questions. 12 Punishment in Early Indian Literature."
+    }
+  }
+]
