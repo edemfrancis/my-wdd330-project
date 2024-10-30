@@ -1,0 +1,101 @@
+#move-center{
+    margin: 0 auto;
+    text-align: center;
+    justify-items: center;
+}
+.main-h1{text-align: center;}
+form fieldset {
+    margin: 0.2rem 0.1rem;
+    border: 1px solid #db9898dd;
+    border-radius: 5px;
+    padding: .5rem 2%;
+}
+form legend{
+    color: rgb(2, 37, 2);
+    padding: 0 0.5rem;
+}
+form label{
+    color: var(--headline-color-on-white);
+    display: block;
+    padding-top: 1rem;
+    font-size: 1rem;
+}
+form div{
+    margin: 1rem;
+    color: var(--headline-color-on-white);
+    font-size:  1rem ;
+}
+form input[type="text"],
+form input[type="password"],
+form input[type="email"],
+form input[type="tel"],
+textarea 
+    {
+    display: block;
+    border: 1px solid rgb(127, 127, 187);
+    padding: 0.75rem;
+    border-radius: 5px;
+    width: 100%;
+    max-width: 400px;
+    appearance: none;
+}
+
+
+form input[type="submit"]{
+    border: none;
+    background-color: #b97570d5;
+    color: #ffff;
+    border-radius: 7px;
+    padding: 0.5rem;
+    width: 96%;
+    max-width: 400px;
+    margin: 1rem 2% 2rem 2%;
+    box-shadow: 1px 1px 2px #473e3e99;
+    cursor: pointer;
+
+}
+
+form input:required{
+    border-radius: 5px;
+    border-right: 8px solid red;
+}
+
+form input:required:valid{
+    border-radius: 5px;
+    border-right: 8px solid green;
+}
+
+form input[type="submit"]:hover{
+    background-color: #caa9a7d5;
+    box-shadow: 4px 4px 4px black;
+}
+
+input[type=range]{
+	margin: 1rem;
+	padding: 0.5em;
+}
+
+#r {
+	width: 212px;
+    margin-top: -1rem;
+}
+
+#rangevalue {
+	font-size: 2rem;
+	color: var(--secondary-color);
+}
+
+#rangevalues {
+	display: flex;
+	margin: 0 0 0 25px;
+	width: 207px;
+    margin-top: -1rem;
+}
+
+#rangevalues option {
+	flex: 1 1 auto;
+}
+.datalist{
+  margin-top: -2rem;
+  padding: 1rem;
+}

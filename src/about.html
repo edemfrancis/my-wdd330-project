@@ -6,6 +6,7 @@
     <title>Book Recommender</title>
     <link rel="stylesheet" href="/styles/larger.css"/>
     <link rel="stylesheet" href="/styles/style.css"/>
+    <link rel="stylesheet" href="styles/about.css">
   </head>
   <body>
     <header class="header hero-image">
@@ -24,11 +25,47 @@
       </nav>
     </header>
     <main>
+      <h1 class="main-h1">Register with The Edem's</h1>
+      <form id="move-center" method="get" action="weldone.html">
+          <fieldset>
+              <legend>Personal Information</legend>
+              <label>Username<input type="text" pattern="[a-zA-Z\s]{5,}" id="username" name="username" required><div><p id="feedback"></p></div></label>
+              <label><input type="password" pattern="[a-zA-Z0-9\s]{8,}" id="password" name="password" placeholder="Enter new password" required></label>
+              <span id="feedback1"></span>
+              <label><input type="password" pattern="[a-zA-Z0-9\s]{8,}" id="password1" name="password" placeholder="confirm password" required></label>
+              <span id="feedback2"></span>
+              <label><input type="email" pattern="[a-zA-Z0-9._%+\-]+@byui\.edu" id="email" name="email" title="Please enter a valid email address" placeholder="Enter school email" required></label>
+              <span id="emailError" style="color:red; display:none;">Please enter a valid @byui.edu email address.</span>
+              <br>
+          </fieldset>
+          <div class="datalist">
+          <label for="r">Rate Us from <b>1 - 10</b></label>
+          <div id="rangevalue">0</div>
+          <input type="range" id="r" name="r" min="0" max="10" value="0" step="1" list="rangevalues">
+          <datalist id="rangevalues">
+              <option value="0">0</option>
+              <option value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+          </datalist>
+          </div>
+          
+          <input type="submit" value="Sign in">
+      </form>
+    </main>
         
     <footer>
       <hr>
       <div class="footer">
         <p>&copy;2024 <b>Edem Francis</b></p>
+        <img src="images/EdemFrancis.jpg" alt="Edem Francis" loading="lazy" width="150" height="100">
         <div>
           <a href="#"><img src="images/facebook-img.png" alt="facebook-img"></a>
           <a href="#"><img src="images/instagram-img.png" alt="instagram-img"></a>
